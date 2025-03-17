@@ -2,7 +2,7 @@
 
 <h2>Exercise 8.12.2</h2>
 
-<h2></h2>
+<h2>Exercise 8.12.3</h2>
 
 <h2></h2>
 
