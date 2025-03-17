@@ -12,10 +12,10 @@ much cleaner and easier to read.
 
 <h2>Exercise 8.12.3</h2>
 
-Oops, I misunderstood the exercise and, consequently, ending up making a script that <i> almost</i> makes a Wordle game. 
-So, unfortunately, my version only vaguely resembles the instructor's, so I can't really say which version is better. 
+Oops, I misunderstood the exercise and, consequently, ended up making a script that <i> almost</i> makes a Wordle game. 
+For this reason, my version only vaguely resembles the instructor's, so I can't really say which version is better. 
 Though I can say that my version could use improvements. I'm sure there's ways I can trim down my code, but I also 
-couldn't quite get the code to work the way I intended and I couldn't figure out how to fix it (entirely because I was 
+couldn't quite get it to work the way I intended and I couldn't figure out how to fix it (entirely because I was 
 doing way more than what the exercise was asking for, so that figures.) The problem I was running into was that my 
 script would check the five letter input word and determine if any of the letters used in the input word could be 
 found in the target word (so if the target word was "exacty", a guess word of "entre" would tell the user that they
@@ -23,13 +23,13 @@ correctly guessed the first letter). However, what the script was also supposed 
 guessed a correct letter but in the wrong position - so, "apple" would tell the user they guessed e correctly, but
 it's in the wrong spot. The problem I ran into was that if I used "entre" the game to tell the user incorrect info - 
 that the first letter was guessed correctly, but that the last e in the word was ALSO correct and just in the wrong
-spot (when it's not) which implies that the target word has two e'd when it only has one. So, since the program is 
+spot (when it's not) which implies that the target word has two e's when it only has one. So, since the program is 
 already way off from the exercise, the only way I can think to improve it is to figure out how to keep track of the 
 letters to avoid giving out wrong hints if there are too many of the same letter.
 
 <h2>Exercise 8.12.5</h2>
 
-When comparing the two version, I can easily say the instructor's version is better. I didn't think to use a regular 
+When comparing the two versions, I can easily say the instructor's version is better. I didn't think to use a regular 
 expression for the words I needed to match, so I think the instructor's version is more efficient, much cleaner and 
 much easier to read. I don't think my version is bad, but I think it could definitely be cleaned up considering I 
 wasn't quite sure what I was doing and was just doing my best to get something that both made sense and worked, which 
@@ -41,8 +41,8 @@ This was another exercise I misunderstood. The exercises kept mentioning a wordl
 referring to, so I figured it was a rhetorical thing. Either way, I did the majority of the exercise, at least, and it 
 looks like both my version and the instructor's version are pretty much the same. Though the instructor's version 
 compares the length of the words and I'm not sure why that's necessary - wouldn't sorting the lists and see if the 
-lists are the same be enough? If a list is ['a', 'b', 'c'] and another is ['a', 'b', 'c', 'd'] does it consider the 
-same because the first three items are the same, hence why you'd need to check the length?
+lists are the same be enough? If a list is ['a', 'b', 'c'] and another is ['a', 'b', 'c', 'd'] does it consider both 
+the same because the first three items are the same, hence why you'd need to check the length?
 
 <h2>Exercise 9.15.3</h2>
 
