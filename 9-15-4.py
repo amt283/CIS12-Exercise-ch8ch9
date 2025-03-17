@@ -9,9 +9,9 @@ def main():
 
 # Reverses sentence word order and returns the reversed sentence with capitalized first word
 def reverse_sentence(phrase):
-    split_phrase = phrase.split()
+    split_phrase = phrase.split() # split string by whitespace between words and saves as list
     reversed_split = reversed(split_phrase)
-    return ' '.join(reversed_split).capitalize()
+    return ' '.join(reversed_split).capitalize() # concatenate reversed list into string with first letter capitalized
 
 if __name__ == "__main__":
     main()
