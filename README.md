@@ -54,10 +54,11 @@ to the word list.
 My version and the instructor's are the same, more or less, though  the instructor's is a little cleaner since I 
 didn't think to condense everything down to a single line for the reverse_sentence function. Despite this, I somewhat 
 prefer my version for the sake of readability and being able to quickly understand what the function is doing. Though 
-that's probably more to do with all of this still being pretty new to me so I need things spaced out a bit more.
+that's probably more to do with all of this still being pretty new to me, so I need things spaced out a bit more.
 
 <h2>Exercise 9.15.5</h2>
 
 My version and the instructor's are the same, more or less, though  the instructor's is a little cleaner since I 
 didn't think to condense everything down to a single line for the total length function. Despite this, I somewhat 
-prefer my version for the sake of readability and being able to quickly understand what the function is doing.
+prefer my version for the sake of readability and being able to quickly understand what the function is doing. Though 
+that's probably more to do with all of this still being pretty new to me, so I need things spaced out a bit more.
